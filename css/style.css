@@ -87,6 +87,10 @@ a {
 	text-decoration: underline;
 }
 
+.advert {
+	position: absolute;
+	margin-left: 2px;
+}
 
 .reklama {
 	text-decoration: underline;
