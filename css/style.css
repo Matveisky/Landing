@@ -1,12 +1,21 @@
 @import url(reset.css);
+@font-face {
+	src:url(../font/NeueMachina-Light.otf);
+	font-family: "NeueMachina-Light";
+	font-weight: normal;
+	src:url(../font/NeueMachina-Regular.otf);
+	font-family: "NeueMachina-Regular";
+	font-weight: normal;
+	src:url(../font/NeueMachina-Medium.otf);
+	font-family: "NeueMachina-Medium";
+	font-weight: normal;
+}
 
 
 .header-container  { 
 	height: 85px;
 	background-color: #0093E9;
 	background-image: linear-gradient(90deg, #0093E9 0%, #80D0C7 100%);
-	
-	
 }
 
  .name-surname {
