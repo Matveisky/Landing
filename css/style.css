@@ -1,16 +1,16 @@
 @import url(reset.css);
 @font-face {
-	src:url(../font/NeueMachina-Light.otf);
+	src:url(../fonts/NeueMachina-Light.otf);
 	font-family: "NeueMachina-Light";
 	font-weight: normal;
 }
 @font-face {
-	src:url(../font/NeueMachina-Regular.otf);
+	src:url(../fonts/NeueMachina-Regular.otf);
 	font-family: "NeueMachina-Regular";
 	font-weight: normal;
 }
 @font-face {
-	src:url(../font/NeueMachina-Medium.otf);
+	src:url(../fonts/NeueMachina-Medium.otf);
 	font-family: "NeueMachina-Medium";
 	font-weight: normal;
 }
